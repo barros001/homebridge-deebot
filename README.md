@@ -25,14 +25,14 @@ Homebridge plugin to integrate ECOVACS Deebot or Yeedi devices into HomeKit
 ### Prerequisites
 
 - To use this plugin, you will need to already have:
-  - [Node](https://nodejs.org): latest version of `v16`, `v18` or `v20` - any other major version is not supported.
+  - [Node](https://nodejs.org): latest version of `v18` or `v20` - any other major version is not supported.
   - [Homebridge](https://homebridge.io): `v1.6` - refer to link for more information and installation instructions.
 
 ### Setup
 
 - [Installation](https://github.com/bwp91/homebridge-deebot/wiki/Installation)
 - [Configuration](https://github.com/bwp91/homebridge-deebot/wiki/Configuration)
-- [Beta Version](https://github.com/bwp91/homebridge-deebot/wiki/Beta-Version)
+- [Beta Version](https://github.com/homebridge/homebridge/wiki/How-to-Install-Alternate-Plugin-Versions)
 - [Node Version](https://github.com/bwp91/homebridge-deebot/wiki/Node-Version)
 
 ### Features
