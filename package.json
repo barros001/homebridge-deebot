@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-deebot",
+  "name": "homebridge-deebot-as",
   "alias": "Deebot",
   "version": "6.1.1",
   "author": {
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bwp91/homebridge-deebot.git"
+    "url": "https://github.com/barros001/homebridge-deebot"
   },
   "bugs": {
-    "url": "https://github.com/bwp91/homebridge-deebot/issues"
+    "url": "https://github.com/barros001/homebridge-deebot/issues"
   },
   "funding": [
     {
