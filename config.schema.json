@@ -11,7 +11,7 @@
       "name": {
         "title": "Plugin Name",
         "type": "string",
-        "default": "Deebot"
+        "default": "Deebot AS"
       },
       "useYeedi": {
         "title": "Use Yeedi Login",
